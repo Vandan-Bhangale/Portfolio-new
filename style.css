@@ -401,7 +401,7 @@ body {
       height: 25vh;
   }
   .footer {
-      height: 55vh;
+      height: 40vh;
       width: 100%;
       background-color: black;
   }
@@ -424,7 +424,7 @@ body {
       display: flex;
       justify-content: center;
       align-items: center;
-      position: absolute;
+      position: fixed;
       bottom: 260px;
       right: 10px;
   }
